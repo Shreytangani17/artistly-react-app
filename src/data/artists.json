@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "DJ Stellar",
+    "genre": "Electronic",
+    "location": "Mumbai",
+    "image": "/images/dj seller.jpg",
+    "bio": "International DJ with 10+ years of experience."
+  },
+  {
+    "id": "2",
+    "name": "Sufi Rhythms",
+    "genre": "Sufi",
+    "location": "Delhi",
+    "image": "/images/rufi.jpg",
+    "bio": "Soulful Sufi band available for weddings and concerts."
+  },
+  {
+    "id": "3",
+    "name": "Comedian Rishi",
+    "genre": "Stand-up Comedy",
+    "location": "Bangalore",
+    "image": "/images/rishi.jpg",
+    "bio": "Corporate-friendly and hilarious stand-up artist."
+  }
+]
